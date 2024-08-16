@@ -1,0 +1,36 @@
+.file-input-field {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  padding: 7.5px 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.file-input-field-success {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  color: rgba(0, 0, 0, 0.6);
+}
+.file-input-field-error {
+  border: 1px solid #d32f2f;
+  color: #d32f2f;
+}
+
+.file-input-field-description {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+  text-align: left;
+  margin-top: 4px;
+  margin-right: 14px;
+  margin-bottom: 0;
+  margin-left: 14px;
+}
+
+.file-input-field-description-success {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.file-input-field-description-error {
+  color: #d32f2f;
+}
